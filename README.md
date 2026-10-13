@@ -63,7 +63,7 @@ Working prototype. Ongoing work includes identifier verification, data-quality i
 This is an independent procurement data project and is not affiliated with or endorsed by the Defense Logistics Agency or the U.S. Department of Defense.
 ### DIBBS Product Sourcing Intelligence Workflow
 
-![DDIBBS Product Sourcing Intelligence Workflow](EXACT_FILENAME.png)
+![DIBBS System Architecture](https://github.com/samadas363/dibbs-product-sourcing-bid-intelligence/raw/main/DIBBS%20Product%20Sourcing%20Intelligence%20Workflow.png)
 
 ![DIBBS Python](dibbs%20python.PNG)
 
