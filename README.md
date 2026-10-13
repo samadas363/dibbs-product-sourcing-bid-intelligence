@@ -61,10 +61,9 @@ Working prototype. Ongoing work includes identifier verification, data-quality i
 ## Disclaimer
 
 This is an independent procurement data project and is not affiliated with or endorsed by the Defense Logistics Agency or the U.S. Department of Defense.
-## DIBBS System Architecture
+### DIBBS System Architecture
 
-![DIBBS System Architecture](a_clean_infographic_diagram_on_a_white_background.png)
-## Project Architecture
+![DIBBS System Architecture](EXACT_FILENAME.png)
 
 ![DIBBS Python](dibbs%20python.PNG)
 
