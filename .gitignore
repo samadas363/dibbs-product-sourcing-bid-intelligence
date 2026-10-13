@@ -1,0 +1,26 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Local database files
+*.dump
+*.backup
+*.sqlite
+*.db
+
+# Local DIBBS data and reports
+dibbs_index_samole.txt
+dibbs_index_preview.csv
+supplier_comparison_report.xlsx
+dibbs_intelligence_report.xlsx
+dibbs_search_results.xlsx
+dibbs_duplicate_audit.xlsx
+
